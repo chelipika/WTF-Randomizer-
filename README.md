@@ -73,9 +73,9 @@ Examples:
 
 ## 🏗 Compatibility
 
-- Minecraft: **1.21.x** (add your exact versions)
+- Minecraft: **1.21.10** 
 - Fabric Loader  
-- Server & client compatible
+- Client side only
 
 ---
 
