@@ -28,3 +28,56 @@ Perfect for chaos challenges, speedrun trolling, SMP events, or videos where eve
 ## 🔧 Commands
 
 ### Set event intervals (in seconds)
+```
+
+/randomItemTimeSet <seconds>
+/randomMobTimeSet <seconds>
+/randomStructureTimeSet <seconds>
+
+```
+
+### Enable/disable chat notifications
+```
+
+/randomEventMessagesInChat <true/false>
+
+```
+
+Examples:
+```
+
+/randomMobTimeSet 20
+/randomEventMessagesInChat true
+
+```
+
+---
+
+## 🎮 Example Uses
+
+- “Random item every 15 sec” challenge  
+- Random structure SMP chaos  
+- Surprise boss or mob events  
+- Content creator challenge series  
+- Pure “WTF is happening” world mode
+
+---
+
+## 📦 Installation
+
+1. Install **Fabric Loader**  
+2. Install **Fabric API**  
+3. Drop the mod JAR into your `/mods/` folder  
+
+---
+
+## 🏗 Compatibility
+
+- Minecraft: **1.21.x** (add your exact versions)
+- Fabric Loader  
+- Server & client compatible
+
+---
+
+## 📜 License
+MIT
