@@ -1,6 +1,6 @@
-# WTF Randomized+
+# Mobber
 
-WTF Randomized+ is a chaos-driven Fabric mod that unleashes unpredictable gameplay by spawning **random items**, **random mobs**, and **random structures** at custom time intervals you control.
+Mobber is a chaos-driven Fabric mod that unleashes unpredictable gameplay by spawning **random items**, **random mobs**, and **random structures** at custom time intervals you control.
 
 Perfect for chaos challenges, speedrun trolling, SMP events, or videos where everything goes horribly (and hilariously) wrong.
 
