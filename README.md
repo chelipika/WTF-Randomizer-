@@ -6,6 +6,13 @@ Perfect for chaos challenges, speedrun trolling, SMP events, or videos where eve
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/9BNm3MKDT3M/0.jpg)](https://www.youtube.com/watch?v=9BNm3MKDT3M)
+
+
+---
+
+
+
 ## ⭐ Features
 
 - **Random Item Drops**  
